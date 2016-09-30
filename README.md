@@ -1,2 +1,2 @@
-# Assembly-AT-T-Visualiser
+# Rosetta: An Assembly AT&T Visualizer
 TODO
